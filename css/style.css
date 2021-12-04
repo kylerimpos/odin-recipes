@@ -1,0 +1,38 @@
+* {
+    background-color: rgb(32, 29, 29);
+    font-family: monospace;
+}
+
+h1, h4, h3 {
+    color:tomato;
+}
+
+h1 {
+    font-size: 42px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+img{
+    height: auto;
+    width: 300px;
+}
+
+
+ .list .index {
+     font-size: 16px;
+     color: wheat;
+     font-weight: bold;
+ }
+
+ .button .a {
+     color:white
+ }
+
+ 
